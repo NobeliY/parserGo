@@ -3,8 +3,9 @@ package config
 import (
 	"os"
 
-	"github.com/NobeliY/parserGo/utils/helpers"
 	"github.com/joho/godotenv"
+
+	"github.com/NobeliY/parserGo/utils/helpers"
 )
 
 
