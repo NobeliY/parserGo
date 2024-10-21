@@ -2,3 +2,4 @@ logs
 .env
 go.mod
 go.sum
+out.json
